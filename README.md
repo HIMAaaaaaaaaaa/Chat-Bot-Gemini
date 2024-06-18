@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_application_chatbot_gemini
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Chat-Bot-Gemini
+>>>>>>> 9796d09cd31b73b221f37d2e201af578e4d00571
